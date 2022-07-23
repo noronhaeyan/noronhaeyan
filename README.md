@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noronhaeyan
-- 👀 I’m interested in fitness, mathematics and long-term investment stratergies
+- 👀 I’m interested in fitness, mathematics and mindfulness
 - 🌱 I’m currently learning programming, statistics and finance
 - 💞️ I’m looking to collaborate on real world problems and data challenges
 - 📫 Reach me at enoronha@andrew.cmu.edu
